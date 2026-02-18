@@ -1,0 +1,1828 @@
+{
+    "version": "0.4",
+    "title": "Testimonials",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "2bacedf5",
+            "settings": {
+                "gap": "wide",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "0",
+                    "bottom": "20",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=cd6dc3a"
+                }
+            },
+            "elements": [
+                {
+                    "id": "77705cca",
+                    "settings": {
+                        "_column_size": "100",
+                        "margin": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "24",
+                            "bottom": "0",
+                            "left": "24",
+                            "isLinked": ""
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4e8162ab",
+                            "settings": {
+                                "title": "Testimonials",
+                                "header_size": "h5",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=307cef1",
+                                    "typography_typography": "globals\/typography?id=0738e5a"
+                                },
+                                "_z_index": "2",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2e93814",
+                            "settings": {
+                                "title": "What people say about us",
+                                "header_size": "h1",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-11",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_z_index": "2",
+                                "align": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=6c6f551"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "f414038",
+                            "settings": {
+                                "editor": "<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;nulla lacus, fermentum non tellus in, euismod euismod ivamus enim turpis, cursus vitae bibendum et, volutpat quis enim.<\/p>",
+                                "_z_index": "2",
+                                "align": "center",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "20",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": ""
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-20",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "52664ecb",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/15.png",
+                                    "id": "207"
+                                },
+                                "width": {
+                                    "unit": "px",
+                                    "size": "126",
+                                    "sizes": []
+                                },
+                                "space": {
+                                    "unit": "px",
+                                    "size": "126",
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "px",
+                                    "size": "88",
+                                    "sizes": []
+                                },
+                                "opacity": {
+                                    "unit": "px",
+                                    "size": "0.3",
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": "1",
+                                    "unit": "%"
+                                },
+                                "_offset_y": {
+                                    "size": "19",
+                                    "unit": "%"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": "-1.578",
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": "29.531",
+                                    "unit": "px"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "6a70b260",
+            "settings": {
+                "gap": "wide",
+                "structure": "20",
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=cd6dc3a"
+                },
+                "overflow": "hidden",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "480b1a76",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "41.666666666667",
+                        "_inline_size_tablet": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "150a8e42",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/17-1.png",
+                                    "id": "629"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "unit": "%",
+                                    "size": "-27",
+                                    "sizes": []
+                                },
+                                "_offset_y": {
+                                    "unit": "%",
+                                    "size": "24",
+                                    "sizes": []
+                                },
+                                "_offset_x_mobile": {
+                                    "size": "-73.312",
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": "194.594",
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "cb5f4f",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/candid-portrait-of-young-beautiful-long-hair-girl-7694EAD.jpg",
+                                    "id": "704"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "space": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "px",
+                                    "size": "600",
+                                    "sizes": []
+                                },
+                                "object-fit": "cover",
+                                "_z_index": "2",
+                                "image_border_color": "#02010100",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "260",
+                                    "right": "260",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "height_tablet": {
+                                    "unit": "px",
+                                    "size": "700",
+                                    "sizes": []
+                                },
+                                "image_border_radius_tablet": {
+                                    "unit": "px",
+                                    "top": "450",
+                                    "right": "450",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "space_mobile": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "px",
+                                    "size": "420",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "299908bc",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/6.png",
+                                    "id": "198"
+                                },
+                                "opacity": {
+                                    "unit": "px",
+                                    "size": "0.3",
+                                    "sizes": []
+                                },
+                                "_z_index": "0",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": "-22",
+                                    "unit": "%"
+                                },
+                                "_offset_y": {
+                                    "size": "15",
+                                    "unit": "%"
+                                },
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "6236e163",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "58.333",
+                        "content_position": "center",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "60",
+                            "bottom": "-20",
+                            "left": "50",
+                            "isLinked": ""
+                        },
+                        "_inline_size_tablet": "100",
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "-20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "-20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "69f727b0",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "fas fa-quote-left",
+                                    "library": "fa-solid"
+                                },
+                                "align": "left",
+                                "__globals__": {
+                                    "primary_color": ""
+                                },
+                                "_z_index": "2",
+                                "primary_color": "#88553A7A"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "600d2f7f",
+                            "settings": {
+                                "editor": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+                                "text_color": "#141E39",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "02",
+                                    "right": "0",
+                                    "bottom": "-09",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=473b0f2"
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "60",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_z_index": "2"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4fee69e4",
+                            "settings": {
+                                "title": "Michael D. Wilson - CEO of Tozee",
+                                "header_size": "h5",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=307cef1"
+                                },
+                                "_z_index": "2"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "40b7bd41",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/7-1.png",
+                                    "id": "2304"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": "-5",
+                                    "unit": "%"
+                                },
+                                "_offset_x_tablet": {
+                                    "size": "-51.547",
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": "25.598",
+                                    "unit": "%"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": "27.891",
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "40bc5e1c",
+            "settings": {
+                "gap": "wide",
+                "structure": "20",
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=cd6dc3a"
+                },
+                "overflow": "hidden",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "0",
+                    "bottom": "",
+                    "left": "0",
+                    "isLinked": "1"
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "reverse_order_tablet": "reverse-tablet",
+                "reverse_order_mobile": "reverse-mobile"
+            },
+            "elements": [
+                {
+                    "id": "22141fc3",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "58.333",
+                        "content_position": "center",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "60",
+                            "bottom": "-20",
+                            "left": "50",
+                            "isLinked": ""
+                        },
+                        "_inline_size_tablet": "100",
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "-20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "-20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5731de8f",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "fas fa-quote-left",
+                                    "library": "fa-solid"
+                                },
+                                "align": "left",
+                                "__globals__": {
+                                    "primary_color": ""
+                                },
+                                "_z_index": "2",
+                                "primary_color": "#88553A7A"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5306a0b2",
+                            "settings": {
+                                "editor": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+                                "text_color": "#141E39",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "02",
+                                    "right": "0",
+                                    "bottom": "-09",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=473b0f2"
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "60",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_z_index": "2"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "50e59af0",
+                            "settings": {
+                                "title": "Michael D. Wilson - CEO of Manan",
+                                "header_size": "h5",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=307cef1"
+                                },
+                                "_z_index": "2"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "38b789ec",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/7-1.png",
+                                    "id": "2304"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": "-5",
+                                    "unit": "%"
+                                },
+                                "_offset_x_tablet": {
+                                    "size": "-51.547",
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": "25.598",
+                                    "unit": "%"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": "27.891",
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "70838be3",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "41.666666666667",
+                        "_inline_size_tablet": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "40531a04",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/17-1.png",
+                                    "id": "629"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": "22.818",
+                                    "unit": "%"
+                                },
+                                "_offset_y": {
+                                    "size": "12.664",
+                                    "unit": "%"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": "-73.312",
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": "194.594",
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "16caba25",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/lonely-girl-in-black-dress-VQTMLU2.jpg",
+                                    "id": "724"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "space": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "px",
+                                    "size": "600",
+                                    "sizes": []
+                                },
+                                "object-fit": "cover",
+                                "_z_index": "2",
+                                "image_border_color": "#02010100",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "260",
+                                    "right": "260",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "height_tablet": {
+                                    "unit": "px",
+                                    "size": "700",
+                                    "sizes": []
+                                },
+                                "image_border_radius_tablet": {
+                                    "unit": "px",
+                                    "top": "450",
+                                    "right": "450",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "space_mobile": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "px",
+                                    "size": "420",
+                                    "sizes": []
+                                },
+                                "image_size": "1536x1536"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "163182ee",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/6.png",
+                                    "id": "198"
+                                },
+                                "opacity": {
+                                    "unit": "px",
+                                    "size": "0.3",
+                                    "sizes": []
+                                },
+                                "_z_index": "0",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": "16",
+                                    "unit": "%"
+                                },
+                                "_offset_y": {
+                                    "size": "12",
+                                    "unit": "%"
+                                },
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "502787af",
+            "settings": {
+                "gap": "wide",
+                "structure": "20",
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=cd6dc3a"
+                },
+                "overflow": "hidden",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "4da960d9",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "41.666666666667",
+                        "_inline_size_tablet": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "1f604608",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/17-1.png",
+                                    "id": "629"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "unit": "%",
+                                    "size": "-27",
+                                    "sizes": []
+                                },
+                                "_offset_y": {
+                                    "unit": "%",
+                                    "size": "24",
+                                    "sizes": []
+                                },
+                                "_offset_x_mobile": {
+                                    "size": "-73.312",
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": "194.594",
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2b127acb",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/pretty-joyful-casual-student-girl-happily-looking-8BU8JXZ-e1613677849225.jpg",
+                                    "id": "738"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "space": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "px",
+                                    "size": "600",
+                                    "sizes": []
+                                },
+                                "object-fit": "cover",
+                                "_z_index": "2",
+                                "image_border_color": "#02010100",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "260",
+                                    "right": "260",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "height_tablet": {
+                                    "unit": "px",
+                                    "size": "700",
+                                    "sizes": []
+                                },
+                                "image_border_radius_tablet": {
+                                    "unit": "px",
+                                    "top": "450",
+                                    "right": "450",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "space_mobile": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "px",
+                                    "size": "420",
+                                    "sizes": []
+                                },
+                                "image_size": "1536x1536"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4a340c3f",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/6.png",
+                                    "id": "198"
+                                },
+                                "opacity": {
+                                    "unit": "px",
+                                    "size": "0.3",
+                                    "sizes": []
+                                },
+                                "_z_index": "0",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": "-22",
+                                    "unit": "%"
+                                },
+                                "_offset_y": {
+                                    "size": "15",
+                                    "unit": "%"
+                                },
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "2fa9b16a",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "58.333",
+                        "content_position": "center",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "60",
+                            "bottom": "-20",
+                            "left": "50",
+                            "isLinked": ""
+                        },
+                        "_inline_size_tablet": "100",
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "-20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "-20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4491a198",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "fas fa-quote-left",
+                                    "library": "fa-solid"
+                                },
+                                "align": "left",
+                                "__globals__": {
+                                    "primary_color": ""
+                                },
+                                "_z_index": "2",
+                                "primary_color": "#88553A7A"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "a83c101",
+                            "settings": {
+                                "editor": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+                                "text_color": "#141E39",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "02",
+                                    "right": "0",
+                                    "bottom": "-09",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=473b0f2"
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "60",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_z_index": "2"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "30273489",
+                            "settings": {
+                                "title": "Michael D. Wilson - CEO of Moiz",
+                                "header_size": "h5",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=307cef1"
+                                },
+                                "_z_index": "2"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2417e3c9",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/7-1.png",
+                                    "id": "2304"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": "-5",
+                                    "unit": "%"
+                                },
+                                "_offset_x_tablet": {
+                                    "size": "-51.547",
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": "25.598",
+                                    "unit": "%"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": "27.891",
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "34955135",
+            "settings": {
+                "gap": "wide",
+                "structure": "20",
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=cd6dc3a"
+                },
+                "overflow": "hidden",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "0",
+                    "bottom": "50",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "",
+                    "right": "0",
+                    "bottom": "",
+                    "left": "0",
+                    "isLinked": "1"
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "reverse_order_tablet": "reverse-tablet",
+                "reverse_order_mobile": "reverse-mobile"
+            },
+            "elements": [
+                {
+                    "id": "2dc24147",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "58.333",
+                        "content_position": "center",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "60",
+                            "bottom": "-20",
+                            "left": "50",
+                            "isLinked": ""
+                        },
+                        "_inline_size_tablet": "100",
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "-20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "-20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "79bed1c6",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "fas fa-quote-left",
+                                    "library": "fa-solid"
+                                },
+                                "align": "left",
+                                "__globals__": {
+                                    "primary_color": ""
+                                },
+                                "_z_index": "2",
+                                "primary_color": "#88553A7A"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1e7c0d78",
+                            "settings": {
+                                "editor": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
+                                "text_color": "#141E39",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "02",
+                                    "right": "0",
+                                    "bottom": "-09",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=473b0f2"
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "60",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_z_index": "2"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "ad07c0b",
+                            "settings": {
+                                "title": "Michael D. Wilson - CEO of Yaron",
+                                "header_size": "h5",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=307cef1"
+                                },
+                                "_z_index": "2"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "82388ec",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/7-1.png",
+                                    "id": "2304"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": "-5",
+                                    "unit": "%"
+                                },
+                                "_offset_x_tablet": {
+                                    "size": "-51.547",
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": "25.598",
+                                    "unit": "%"
+                                },
+                                "_offset_y_tablet": {
+                                    "size": "27.891",
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "53bd8c4d",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "41.666666666667",
+                        "_inline_size_tablet": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "7196b0b0",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/17-1.png",
+                                    "id": "629"
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": "22.818",
+                                    "unit": "%"
+                                },
+                                "_offset_y": {
+                                    "size": "12.664",
+                                    "unit": "%"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": "-73.312",
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": "194.594",
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "501eeb85",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/beautiful-girl-with-flowers-ZNXWD8W.jpg",
+                                    "id": "701"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "space": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "px",
+                                    "size": "600",
+                                    "sizes": []
+                                },
+                                "object-fit": "cover",
+                                "_z_index": "2",
+                                "image_border_color": "#02010100",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "260",
+                                    "right": "260",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "height_tablet": {
+                                    "unit": "px",
+                                    "size": "700",
+                                    "sizes": []
+                                },
+                                "image_border_radius_tablet": {
+                                    "unit": "px",
+                                    "top": "450",
+                                    "right": "450",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "space_mobile": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "px",
+                                    "size": "420",
+                                    "sizes": []
+                                },
+                                "image_size": "1536x1536"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7640d0be",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/6.png",
+                                    "id": "198"
+                                },
+                                "opacity": {
+                                    "unit": "px",
+                                    "size": "0.3",
+                                    "sizes": []
+                                },
+                                "_z_index": "0",
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": "16",
+                                    "unit": "%"
+                                },
+                                "_offset_y": {
+                                    "size": "12",
+                                    "unit": "%"
+                                },
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "66b977cc",
+            "settings": {
+                "gap": "wide",
+                "structure": "20",
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=71786a0"
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "overflow": "hidden",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "40",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "34fecc61",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "50",
+                        "_inline_size_tablet": "100",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "60",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "193b8b4f",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/sour-moha-3hFVZkpOkI8-unsplash.jpg",
+                                    "id": "770"
+                                },
+                                "width": {
+                                    "unit": "%",
+                                    "size": "99",
+                                    "sizes": []
+                                },
+                                "space": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "px",
+                                    "size": "520",
+                                    "sizes": []
+                                },
+                                "object-fit": "cover",
+                                "_z_index": "2",
+                                "image_border_color": "#02010100",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "260",
+                                    "right": "0",
+                                    "bottom": "260",
+                                    "left": "260",
+                                    "isLinked": ""
+                                },
+                                "height_tablet": {
+                                    "unit": "px",
+                                    "size": "700",
+                                    "sizes": []
+                                },
+                                "image_border_radius_tablet": {
+                                    "unit": "px",
+                                    "top": "450",
+                                    "right": "0",
+                                    "bottom": "450",
+                                    "left": "450",
+                                    "isLinked": ""
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "space_mobile": {
+                                    "unit": "%",
+                                    "size": "100",
+                                    "sizes": []
+                                },
+                                "height_mobile": {
+                                    "unit": "px",
+                                    "size": "420",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7fcd1bb1",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/8.png",
+                                    "id": "200"
+                                },
+                                "width": {
+                                    "unit": "px",
+                                    "size": "601",
+                                    "sizes": []
+                                },
+                                "space": {
+                                    "unit": "px",
+                                    "size": "600",
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "px",
+                                    "size": "449",
+                                    "sizes": []
+                                },
+                                "object-fit": "cover",
+                                "opacity": {
+                                    "unit": "px",
+                                    "size": "0.3",
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "unit": "%",
+                                    "size": "-2",
+                                    "sizes": []
+                                },
+                                "_offset_x_tablet": {
+                                    "size": "-30.094",
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "unit": "%",
+                                    "size": "1",
+                                    "sizes": []
+                                },
+                                "_offset_y_tablet": {
+                                    "size": "22.797",
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "50164e10",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "50",
+                        "content_position": "center",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "60",
+                            "isLinked": ""
+                        },
+                        "_inline_size_tablet": "100",
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "-20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "-30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "288f7fda",
+                            "settings": {
+                                "title": "Unique, As you",
+                                "header_size": "h5",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=307cef1",
+                                    "typography_typography": "globals\/typography?id=0738e5a"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "79268a0b",
+                            "settings": {
+                                "title": "Brilliance for your shine",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-7",
+                                    "right": "0",
+                                    "bottom": "03",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_z_index": "2"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "511cffd6",
+                            "settings": {
+                                "editor": "<p>Quisque accumsan facilisiseleifend. Integer ultricies leo eros, non molestie lorem posuere eget. Fusce eget iaculis lorem. Phasellus ante metus, sodales pulvinar lectus in, pellentesque congue tortor<\/p>",
+                                "_z_index": "2"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2f9d90f7",
+                            "settings": {
+                                "text": "Contact us"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "131cfbdb",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/energeticthemes.com\/wp-templates\/jewear\/wp-content\/uploads\/sites\/16\/2021\/02\/15.png",
+                                    "id": "207"
+                                },
+                                "width": {
+                                    "unit": "px",
+                                    "size": "126",
+                                    "sizes": []
+                                },
+                                "space": {
+                                    "unit": "px",
+                                    "size": "126",
+                                    "sizes": []
+                                },
+                                "height": {
+                                    "unit": "px",
+                                    "size": "88",
+                                    "sizes": []
+                                },
+                                "opacity": {
+                                    "unit": "px",
+                                    "size": "0.3",
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": "-42",
+                                    "unit": "%"
+                                },
+                                "_offset_y": {
+                                    "size": "33",
+                                    "unit": "%"
+                                },
+                                "_offset_x_tablet": {
+                                    "unit": "px",
+                                    "size": "-286",
+                                    "sizes": []
+                                },
+                                "_offset_y_tablet": {
+                                    "unit": "px",
+                                    "size": "4",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_header_footer"
+    }
+}

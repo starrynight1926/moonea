@@ -1,0 +1,1915 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Jewear",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header Side area",
+            "screenshot": "screenshots\/header-side-area.jpg",
+            "source": "templates\/header-side-area.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/?elementor_library=header-side-area",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/template-kit\/services\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Shop",
+            "screenshot": "screenshots\/shop.jpg",
+            "source": "templates\/shop.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/?elementor_library=shop",
+            "type": "product-archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product-archive",
+                "elementor_pro_conditions": [
+                    "include\/product_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product Archive\" template for Elementor Pro.",
+                    "This template will display on: All Product Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Product",
+            "screenshot": "screenshots\/single-product.jpg",
+            "source": "templates\/single-product.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/?elementor_library=single-product",
+            "type": "product",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "product",
+                "elementor_pro_conditions": [
+                    "include\/product"
+                ],
+                "additional_template_information": [
+                    "This is a \"Product\" template for Elementor Pro.",
+                    "This template will display on: Products."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/template-kit\/contact-us\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/?elementor_library=blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio Three Col",
+            "screenshot": "screenshots\/portfolio-three-col.jpg",
+            "source": "templates\/portfolio-three-col.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/template-kit\/portfolio-three-col\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Project",
+            "screenshot": "screenshots\/single-project.jpg",
+            "source": "templates\/single-project.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/template-kit\/single-project\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Table",
+            "screenshot": "screenshots\/pricing-table.jpg",
+            "source": "templates\/pricing-table.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/template-kit\/pricing-table\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ's",
+            "screenshot": "screenshots\/faq-s.jpg",
+            "source": "templates\/faq-s.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Partners",
+            "screenshot": "screenshots\/partners.jpg",
+            "source": "templates\/partners.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/template-kit\/partners\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.1.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.1.1",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "WooCommerce",
+            "version": "5.0.0",
+            "file": "woocommerce\/woocommerce.php",
+            "author": "Automattic"
+        }
+    ],
+    "images": [
+        {
+            "filename": "footer-logo.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/footer-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 5602,
+            "dimensions": [
+                283,
+                76
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "kate-hliznitsova-vbnxgxj6cJg-unsplash-1028x1536-2.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/kate-hliznitsova-vbnxgxj6cJg-unsplash-1028x1536-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/header-side-area.json",
+                    "name": "Header Side area"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 259517,
+            "dimensions": [
+                720,
+                720
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/vbnxgxj6cJg"
+        },
+        {
+            "filename": "Rectangle-8.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/Rectangle-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 119323,
+            "dimensions": [
+                296,
+                296
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/natural-shapes-scenes-collection-6R7K2JL"
+        },
+        {
+            "filename": "brooke-cagle-kElEigko7PU-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/brooke-cagle-kElEigko7PU-unsplash-800x537.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 151056,
+            "dimensions": [
+                1300,
+                873
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/kElEigko7PU"
+        },
+        {
+            "filename": "6.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 2590,
+            "dimensions": [
+                432,
+                410
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/natural-shapes-scenes-collection-6R7K2JL"
+        },
+        {
+            "filename": "joeyy-lee-onU-LlrPs8I-unsplash-e1613852949141.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/joeyy-lee-onU-LlrPs8I-unsplash-e1613852949141-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 98593,
+            "dimensions": [
+                1301,
+                1301
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/onU-LlrPs8I"
+        },
+        {
+            "filename": "5.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3014,
+            "dimensions": [
+                612,
+                426
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/natural-shapes-scenes-collection-6R7K2JL"
+        },
+        {
+            "filename": "13.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/13.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 1984,
+            "dimensions": [
+                296,
+                334
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/natural-shapes-scenes-collection-6R7K2JL"
+        },
+        {
+            "filename": "15.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/15.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/shop.json",
+                    "name": "Shop"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-three-col.json",
+                    "name": "Portfolio Three Col"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/faq-s.json",
+                    "name": "FAQ's"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/partners.json",
+                    "name": "Partners"
+                }
+            ],
+            "filesize": 3435,
+            "dimensions": [
+                658,
+                460
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/natural-shapes-scenes-collection-6R7K2JL"
+        },
+        {
+            "filename": "juan-burgos-3_XeNGVbTQA-unsplash-e1613853491903.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/juan-burgos-3_XeNGVbTQA-unsplash-e1613853491903-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 471175,
+            "dimensions": [
+                1300,
+                1300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/3_XeNGVbTQA"
+        },
+        {
+            "filename": "ellieelien-LdYkVL5r_m4-unsplash-e1613852525401.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/ellieelien-LdYkVL5r_m4-unsplash-e1613852525401-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 161608,
+            "dimensions": [
+                1301,
+                1301
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/LdYkVL5r_m4"
+        },
+        {
+            "filename": "tyler-nix-fo83GD_AARE-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/tyler-nix-fo83GD_AARE-unsplash-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-three-col.json",
+                    "name": "Portfolio Three Col"
+                }
+            ],
+            "filesize": 164809,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/fo83GD_AARE"
+        },
+        {
+            "filename": "img-3.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/img-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 184647,
+            "dimensions": [
+                296,
+                399
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/UBeNYvk6ED0"
+        },
+        {
+            "filename": "5-1.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/5-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                }
+            ],
+            "filesize": 2466,
+            "dimensions": [
+                241,
+                168
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/natural-shapes-scenes-collection-6R7K2JL"
+        },
+        {
+            "filename": "jasmin-chew-UBeNYvk6ED0-unsplash-e1613852315425.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/jasmin-chew-UBeNYvk6ED0-unsplash-e1613852315425-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 131172,
+            "dimensions": [
+                1301,
+                1301
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/UBeNYvk6ED0"
+        },
+        {
+            "filename": "8-1.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/8-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6542,
+            "dimensions": [
+                600,
+                449
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/natural-shapes-scenes-collection-6R7K2JL"
+        },
+        {
+            "filename": "img.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 102727,
+            "dimensions": [
+                632,
+                465
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/5KY5LP_zc44"
+        },
+        {
+            "filename": "10-1.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/10-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1796,
+            "dimensions": [
+                212,
+                338
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/natural-shapes-scenes-collection-6R7K2JL"
+        },
+        {
+            "filename": "vinicius-muller-VBWuvLSQeAY-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/vinicius-muller-VBWuvLSQeAY-unsplash-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 270086,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/VBWuvLSQeAY"
+        },
+        {
+            "filename": "7.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/7.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 2729,
+            "dimensions": [
+                732,
+                326
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/natural-shapes-scenes-collection-6R7K2JL"
+        },
+        {
+            "filename": "chuttersnap-NYqEk7a42yc-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/chuttersnap-NYqEk7a42yc-unsplash-800x1198.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 169145,
+            "dimensions": [
+                1300,
+                1947
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/NYqEk7a42yc"
+        },
+        {
+            "filename": "12-1.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/12-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2191,
+            "dimensions": [
+                265,
+                249
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/natural-shapes-scenes-collection-6R7K2JL"
+        },
+        {
+            "filename": "17-1.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/17-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 6245,
+            "dimensions": [
+                341,
+                315
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/natural-shapes-scenes-collection-6R7K2JL"
+        },
+        {
+            "filename": "joeyy-lee-OibaEuEfpeg-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/joeyy-lee-OibaEuEfpeg-unsplash-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 404727,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/OibaEuEfpeg"
+        },
+        {
+            "filename": "max-ducourneau-6uv43p1ePrk-unsplash-1.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/max-ducourneau-6uv43p1ePrk-unsplash-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 252438,
+            "dimensions": [
+                720,
+                720
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/6uv43p1ePrk"
+        },
+        {
+            "filename": "taisiia-stupak-2qOq0yH6fY4-unsplash-e1613852343483.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/taisiia-stupak-2qOq0yH6fY4-unsplash-e1613852343483-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 176907,
+            "dimensions": [
+                1300,
+                1300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/2qOq0yH6fY4"
+        },
+        {
+            "filename": "kate-hliznitsova-EnvGlhMhFrc-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/kate-hliznitsova-EnvGlhMhFrc-unsplash-800x1195.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 348709,
+            "dimensions": [
+                1300,
+                1942
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/EnvGlhMhFrc"
+        },
+        {
+            "filename": "saeed-anahid-GhLgB-oXNw-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/saeed-anahid-GhLgB-oXNw-unsplash-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 181900,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/GhLgB-oXNw"
+        },
+        {
+            "filename": "8.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/8.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 3016,
+            "dimensions": [
+                566,
+                424
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/"
+        },
+        {
+            "filename": "rachel-sweeney-XTcmw_YRjeU-unsplash-e1613914792846.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/rachel-sweeney-XTcmw_YRjeU-unsplash-800x1204.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 317374,
+            "dimensions": [
+                1000,
+                1505
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/XTcmw_YRjeU"
+        },
+        {
+            "filename": "kyle-cut-media-Dcw_Z5o7ovY-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/kyle-cut-media-Dcw_Z5o7ovY-unsplash-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 153284,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Dcw_Z5o7ovY"
+        },
+        {
+            "filename": "taisiia-stupak-zyedzmNqlbE-unsplash-e1613914810260.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/taisiia-stupak-zyedzmNqlbE-unsplash-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 185967,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/zyedzmNqlbE"
+        },
+        {
+            "filename": "kate-hliznitsova-pjrPWwwYx1I-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/kate-hliznitsova-pjrPWwwYx1I-unsplash-800x1195.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 337862,
+            "dimensions": [
+                1300,
+                1942
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/pjrPWwwYx1I"
+        },
+        {
+            "filename": "alyssa-strohmann-qOIGvGoVNtc-unsplash-e1613914828534.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/alyssa-strohmann-qOIGvGoVNtc-unsplash-800x1066.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 222684,
+            "dimensions": [
+                1000,
+                1333
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/qOIGvGoVNtc"
+        },
+        {
+            "filename": "5-2.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/5-2.png",
+            "templates": [
+                {
+                    "source": "templates\/single-product.json",
+                    "name": "Single Product"
+                }
+            ],
+            "filesize": 7451,
+            "dimensions": [
+                695,
+                695
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/natural-shapes-scenes-collection-6R7K2JL"
+        },
+        {
+            "filename": "photo-1602872321502-810573664a72.jpeg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/photo-1602872321502-810573664a72-800x1200.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 202343,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/"
+        },
+        {
+            "filename": "jasmin-chew-XnEq1fOdolE-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/jasmin-chew-XnEq1fOdolE-unsplash-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 407017,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/XnEq1fOdolE"
+        },
+        {
+            "filename": "fotografierende-EJLzjLFnvPI-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/fotografierende-EJLzjLFnvPI-unsplash-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 407384,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/EJLzjLFnvPI"
+        },
+        {
+            "filename": "dom-aguiar-eoR0Ou7js5E-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/dom-aguiar-eoR0Ou7js5E-unsplash-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 310135,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/eoR0Ou7js5E"
+        },
+        {
+            "filename": "anastasia-anastasia-cTM8psdeOTQ-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/anastasia-anastasia-cTM8psdeOTQ-unsplash-800x1071.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-three-col.json",
+                    "name": "Portfolio Three Col"
+                }
+            ],
+            "filesize": 499767,
+            "dimensions": [
+                1300,
+                1740
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/cTM8psdeOTQ"
+        },
+        {
+            "filename": "alexandra-lammerink-LV5gOg3c1Kk-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/alexandra-lammerink-LV5gOg3c1Kk-unsplash-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-three-col.json",
+                    "name": "Portfolio Three Col"
+                }
+            ],
+            "filesize": 388666,
+            "dimensions": [
+                1300,
+                1625
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/LV5gOg3c1Kk"
+        },
+        {
+            "filename": "carmen-lopez-GetFBf5lDiw-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/carmen-lopez-GetFBf5lDiw-unsplash-800x1066.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-three-col.json",
+                    "name": "Portfolio Three Col"
+                }
+            ],
+            "filesize": 338665,
+            "dimensions": [
+                1300,
+                1733
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/GetFBf5lDiw"
+        },
+        {
+            "filename": "melnychuk-nataliya-oO0JAOJhquk-unsplash-e1613853259677.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/melnychuk-nataliya-oO0JAOJhquk-unsplash-e1613853259677-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-three-col.json",
+                    "name": "Portfolio Three Col"
+                }
+            ],
+            "filesize": 144621,
+            "dimensions": [
+                1302,
+                1302
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/oO0JAOJhquk"
+        },
+        {
+            "filename": "jackie-tsang-3_YP8_mh-Kg-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/jackie-tsang-3_YP8_mh-Kg-unsplash-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-three-col.json",
+                    "name": "Portfolio Three Col"
+                }
+            ],
+            "filesize": 137565,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/3_YP8_mh-Kg"
+        },
+        {
+            "filename": "svitlana-04pH-WJU7KQ-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/svitlana-04pH-WJU7KQ-unsplash-800x1000.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-three-col.json",
+                    "name": "Portfolio Three Col"
+                }
+            ],
+            "filesize": 235936,
+            "dimensions": [
+                1300,
+                1625
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/04pH-WJU7KQ"
+        },
+        {
+            "filename": "content-pixie-Hn4a5FahB8M-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/content-pixie-Hn4a5FahB8M-unsplash-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-three-col.json",
+                    "name": "Portfolio Three Col"
+                }
+            ],
+            "filesize": 456707,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Hn4a5FahB8M"
+        },
+        {
+            "filename": "lum3n-esAis38NHT8-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/lum3n-esAis38NHT8-unsplash-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-three-col.json",
+                    "name": "Portfolio Three Col"
+                },
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 138897,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/esAis38NHT8"
+        },
+        {
+            "filename": "lum3n-lbEL705stOw-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/lum3n-lbEL705stOw-unsplash-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 179349,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/lbEL705stOw"
+        },
+        {
+            "filename": "lum3n-nPUJAJOk0mc-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/lum3n-nPUJAJOk0mc-unsplash-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 216328,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/nPUJAJOk0mc"
+        },
+        {
+            "filename": "lum3n-P1uXWnpqEAI-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/lum3n-P1uXWnpqEAI-unsplash-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 201738,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/P1uXWnpqEAI"
+        },
+        {
+            "filename": "lum3n-is9JmwNZIBo-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/lum3n-is9JmwNZIBo-unsplash-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 218762,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/is9JmwNZIBo"
+        },
+        {
+            "filename": "lum3n-rtAEbQ6RrgI-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/lum3n-rtAEbQ6RrgI-unsplash-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 156013,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/rtAEbQ6RrgI"
+        },
+        {
+            "filename": "lum3n-gxqAPPY6LIk-unsplash.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/lum3n-gxqAPPY6LIk-unsplash-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-project.json",
+                    "name": "Single Project"
+                }
+            ],
+            "filesize": 376266,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/gxqAPPY6LIk"
+        },
+        {
+            "filename": "12-2.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/12-2.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-table.json",
+                    "name": "Pricing Table"
+                }
+            ],
+            "filesize": 2191,
+            "dimensions": [
+                265,
+                249
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/natural-shapes-scenes-collection-6R7K2JL"
+        },
+        {
+            "filename": "candid-portrait-of-young-beautiful-long-hair-girl-7694EAD.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/candid-portrait-of-young-beautiful-long-hair-girl-7694EAD-800x576.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 109061,
+            "dimensions": [
+                1300,
+                936
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7694EAD"
+        },
+        {
+            "filename": "7-1.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/7-1.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 5367,
+            "dimensions": [
+                632,
+                282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/natural-shapes-scenes-collection-6R7K2JL"
+        },
+        {
+            "filename": "lonely-girl-in-black-dress-VQTMLU2.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/lonely-girl-in-black-dress-VQTMLU2-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 274012,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VQTMLU2"
+        },
+        {
+            "filename": "pretty-joyful-casual-student-girl-happily-looking-8BU8JXZ-e1613677849225.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/pretty-joyful-casual-student-girl-happily-looking-8BU8JXZ-e1613677688118-800x847.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 108511,
+            "dimensions": [
+                687,
+                867
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8BU8JXZ"
+        },
+        {
+            "filename": "beautiful-girl-with-flowers-ZNXWD8W.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/beautiful-girl-with-flowers-ZNXWD8W-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 140107,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZNXWD8W"
+        },
+        {
+            "filename": "sour-moha-3hFVZkpOkI8-unsplash-e1613852155329.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/sour-moha-3hFVZkpOkI8-unsplash-e1613852155329-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 107472,
+            "dimensions": [
+                1300,
+                1300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sour-moha-3hFVZkpOkI8-unsplash"
+        },
+        {
+            "filename": "customer-in-jewelry-shop-FH5BJX8.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/customer-in-jewelry-shop-FH5BJX8-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 191507,
+            "dimensions": [
+                1300,
+                867
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/customer-in-jewelry-shop-FH5BJX8"
+        },
+        {
+            "filename": "beautiful-mature-woman-with-hand-in-pocket-and-jac-L663S3W.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/beautiful-mature-woman-with-hand-in-pocket-and-jac-L663S3W-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 294044,
+            "dimensions": [
+                1300,
+                1948
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L663S3W"
+        },
+        {
+            "filename": "young-beautiful-long-brown-haired-hair-girl-with-b-UAYQKDU.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/young-beautiful-long-brown-haired-hair-girl-with-b-UAYQKDU-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 376824,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UAYQKDU"
+        },
+        {
+            "filename": "portrait-of-young-woman-looking-to-camera-with-arm-P8CJ6X3.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/portrait-of-young-woman-looking-to-camera-with-arm-P8CJ6X3-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 278802,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8CJ6X3"
+        },
+        {
+            "filename": "bearded-smiling-engineer-with-arms-crossed-on-ches-LF5QXBS.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/bearded-smiling-engineer-with-arms-crossed-on-ches-LF5QXBS-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 345920,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LF5QXBS"
+        },
+        {
+            "filename": "portrait-of-smiling-young-woman-looking-to-camera-P5G94CB.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/portrait-of-smiling-young-woman-looking-to-camera-P5G94CB-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 372402,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5G94CB"
+        },
+        {
+            "filename": "beautiful-woman-with-coffee-cup-Q2Y2CJQ.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/beautiful-woman-with-coffee-cup-Q2Y2CJQ-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 392876,
+            "dimensions": [
+                1300,
+                1950
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q2Y2CJQ"
+        },
+        {
+            "filename": "asian-woman-at-her-creative-office-work-station-64DQXM2.jpg",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/asian-woman-at-her-creative-office-work-station-64DQXM2-800x1202.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 484404,
+            "dimensions": [
+                1300,
+                1954
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-64DQXM2"
+        },
+        {
+            "filename": "3-1.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/3-1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/partners.json",
+                    "name": "Partners"
+                }
+            ],
+            "filesize": 226263,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-natural-logo-collection-W6MS4M"
+        },
+        {
+            "filename": "2-1.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/2-1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/partners.json",
+                    "name": "Partners"
+                }
+            ],
+            "filesize": 310524,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-natural-logo-collection-W6MS4M"
+        },
+        {
+            "filename": "4-1.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/4-1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/partners.json",
+                    "name": "Partners"
+                }
+            ],
+            "filesize": 174400,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-natural-logo-collection-W6MS4M"
+        },
+        {
+            "filename": "5-3.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/5-3-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/partners.json",
+                    "name": "Partners"
+                }
+            ],
+            "filesize": 263544,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-natural-logo-collection-W6MS4M"
+        },
+        {
+            "filename": "6-1.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/6-1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/partners.json",
+                    "name": "Partners"
+                }
+            ],
+            "filesize": 273052,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-natural-logo-collection-W6MS4M"
+        },
+        {
+            "filename": "7-2.png",
+            "thumbnail_url": "https:\/\/energeticthemes.com\/wp-templates\/jewellrywear\/wp-content\/uploads\/sites\/16\/2021\/02\/7-2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/partners.json",
+                    "name": "Partners"
+                }
+            ],
+            "filesize": 356581,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/modern-natural-logo-collection-W6MS4M"
+        }
+    ]
+}

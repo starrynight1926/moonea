@@ -1,0 +1,506 @@
+# Translation of Plugins - WP Reset - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - WP Reset - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-11-16 08:24:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - WP Reset - Stable (latest release)\n"
+
+#. translators: %s is replaced with the link to the documentation page
+#: wp-reset.php:2105
+msgid "All tools and features are explained in detail in <a href=\"%s\" target=\"_blank\">the documentation</a>. We did our best to describe how things work on both the code level and an \"average user\" level."
+msgstr "Tất cả các công cụ và tính năng được giải thích chi tiết trong <a href=\"%s\" target=\"_blank\">tài liệu</a>. Chúng tôi đã cố gắng hết sức để mô tả cách mọi thứ hoạt động ở cả cấp độ mã và cấp độ \"người dùng trung bình\"."
+
+#. translators: %s is replaced with the .htaccess file path
+#: wp-reset.php:2027
+msgid "This action deletes the .htaccess file located in <code>%s</code><br><b>There is NO UNDO. WP Reset does not make any file backups.</b></p>"
+msgstr "Hành động này sẽ xoá file .htaccess nằm trong <code>%s</code><br><b>Không có hoàn tác. WP Reset không tạo bất kỳ sao lưu file nào.</b></p>"
+
+#. translators: %d is replaced with the number of custom tables
+#: wp-reset.php:1971
+msgid "The following %d custom tables are affected by this tool: "
+msgstr "Các bảng tùy chỉnh sau đây %d bị ảnh hưởng bởi công cụ này: "
+
+#. translators: %s is replaced with the table prefix
+#: wp-reset.php:1968
+msgid "This action affects only custom tables with <code>%s</code> prefix. Core WP tables and other tables in the database that do not have that prefix will not be deleted/emptied. Deleting (dropping) tables completely removes them from the database. Emptying (truncating) removes all content from them, but keeps the structure intact.<br>Always <a href=\"#\" class=\"create-new-snapshot\" data-description=\"Before deleting custom tables\">create a snapshot</a> before using this tool if you want to be able to undo its actions.</p>"
+msgstr "Hành động này chỉ ảnh hưởng đến các bảng tùy chỉnh có tiền tố <code>%s</code>. Các bảng cốt lõi của WP và các bảng khác trong cơ sở dữ liệu không có tiền tố đó sẽ không bị xoá/đổ rỗng. Việc xoá (gỡ bỏ) các bảng sẽ hoàn toàn loại bỏ chúng khỏi cơ sở dữ liệu. Việc đổ rỗng (truncating) sẽ xoá tất cả nội dung khỏi chúng, nhưng giữ nguyên cấu trúc.<br>Luôn <a href=\"#\" class=\"create-new-snapshot\" data-description=\"Trước khi gỡ bỏ các bảng tùy chỉnh\">tạo một bản chụp nhanh</a> trước khi sử dụng công cụ này nếu bạn muốn có thể hoàn tác các hành động của nó.</p>"
+
+#. translators: %1$s is replaced with the uploads folder path, %2$s is replaced
+#. with the URL to WordPress Media upload page
+#: wp-reset.php:1939
+msgid "All files in <code>%1$s</code> folder will be deleted. Including folders and subfolders, and files in subfolders. Files associated with <a href=\"%2$s\">media</a> entries will be deleted too.<br><b>There is NO UNDO. WP Reset does not make any file backups.</b>"
+msgstr "Tất cả file trong thư mục <code>%1$s</code> sẽ bị xoá. Bao gồm các thư mục và thư mục con, cũng như các file trong thư mục con. Các file liên quan đến các mục <a href=\"%2$s\">media</a> cũng sẽ bị xoá.<br><b>Không có hoàn tác. WP Reset không tạo bất kỳ bản sao lưu nào cho file.</b>"
+
+#. translators: %s is replaced with the currently active theme name
+#: wp-reset.php:1902
+msgid "All themes will be deleted. Including the currently active theme - %s.<br><b>There is NO UNDO. WP Reset does not make any file backups.</b>"
+msgstr "Tất cả giao diện sẽ bị xoá. Bao gồm giao diện đang sử dụng - %s.<br><b>Không có hoàn tác. WP Reset không tạo bất kỳ file sao lưu nào.</b>"
+
+#: wp-reset.php:266
+msgid "Unknown Notice."
+msgstr "Thông báo không xác định."
+
+#. translators: %s is replaced with "reset"
+#: wp-reset.php:1713
+msgid "Type in: %s"
+msgstr "Nhập vào: %s"
+
+#: wp-reset.php:1544
+msgid "Thank you for purchasing WP Reset PRO!"
+msgstr "Cảm ơn bạn đã mua WP Reset PRO!"
+
+#: wp-reset.php:2172
+msgid "Activate PRO License"
+msgstr "Kích hoạt mã bản quyền PRO"
+
+#: wp-reset.php:2161
+msgid "WP Reset PRO"
+msgstr "WP Reset PRO"
+
+#: wp-reset.php:2134
+msgid "Premium Email Support"
+msgstr "Hỗ trợ Email cao cấp"
+
+#: wp-reset.php:1993
+msgid "Switch WP Version"
+msgstr "Chuyển phiên bản WP"
+
+#: wp-reset.php:1950
+msgid "Clean wp-content Folder"
+msgstr "Dọn dẹp thư mục wp-content"
+
+#: wp-reset.php:1918
+msgid "Delete MU Plugins & Drop-ins"
+msgstr "Xóa MU Plugins & Drop-in"
+
+#: wp-reset.php:1886
+msgid "Delete Widgets"
+msgstr "Xóa tiện ích widget"
+
+#: wp-reset.php:1853
+msgid "Delete Content"
+msgstr "Xóa nội dung"
+
+#: wp-reset.php:1843
+msgid "Delete Local Data"
+msgstr "Xóa dữ liệu cục bộ"
+
+#: wp-reset.php:1834
+msgid "Purge Cache"
+msgstr "Xóa bộ nhớ đệm"
+
+#: wp-reset.php:1814
+msgid "Reset User Roles"
+msgstr "Đặt lại vai trò người dùng"
+
+#: wp-reset.php:1736
+msgid "Reset WordPress &amp; Delete All Custom Files &amp; Data"
+msgstr "Đặt lại WordPress & Xóa tất cả tệp & dữ liệu tùy chỉnh"
+
+#: wp-reset.php:1733
+msgid "Type <b>reset</b> in the confirmation field to confirm the reset and then click the \"Reset WordPress &amp; Delete All Custom Files &amp; Data\" button. <b>There is NO UNDO."
+msgstr "Nhập <b>reset</b> vào trường xác nhận để xác nhận việc đặt lại và sau đó click vào nút \"Đặt lại WordPress &amp; Xoá tất cả các tệp &amp; dữ liệu tuỳ chỉnh\". <b>Không có HOÀN TÁC."
+
+#: wp-reset.php:1722
+msgid "Nuclear Site Reset"
+msgstr "Đặt lại trang web cốt lõi"
+
+#: wp-reset.php:1689
+msgid "Options Reset"
+msgstr "Tùy chọn đặt lại"
+
+#: wp-reset.php:1669
+msgid "WP Reset plugin will be reactivated if that option is chosen"
+msgstr "Plugin WP Reset sẽ được kích hoạt lại nếu tùy chọn đó được chọn"
+
+#: wp-reset.php:1666
+msgid "see the table above to find out what exactly will be reset or deleted"
+msgstr "Xem bảng trên để tìm hiểu chính xác những gì sẽ được đặt lại hoặc xóa"
+
+#: wp-reset.php:1664
+msgid "remember, always <b>make a backup first</b> or use <a href=\"#\" class=\"change-tab\" data-tab=\"2\">snapshots</a>"
+msgstr "Hãy nhớ, luôn <b>Tạo bản sao lưu trước</b> hoặc sử dụng <a href=\"#\" class=\"change-tab\" data-tab=\"2\">Bản lưu nhanh</a>"
+
+#: wp-reset.php:1662
+msgid "What happens when I run any Reset tool?"
+msgstr "Điều gì xảy ra khi tôi chạy bất kỳ công cụ đặt lại nào?"
+
+#: wp-reset.php:1455
+msgid "PRO"
+msgstr "PRO"
+
+#: wp-reset.php:1360
+msgid "Open documentation for this tool"
+msgstr "Mở tài liệu cho công cụ này"
+
+#: wp-reset.php:406
+msgid "is already installed"
+msgstr "đã được cài đặt"
+
+#: wp-reset.php:405
+msgid "Could not install"
+msgstr "Không thể cài đặt"
+
+#: wp-reset.php:404
+msgid "Could not delete"
+msgstr "Không thể xóa"
+
+#: wp-reset.php:403
+msgid "Could not deactivate"
+msgstr "Không thể hủy kích hoạt"
+
+#: wp-reset.php:402
+msgid "Could not activate"
+msgstr "Không thể kích hoạt"
+
+#: wp-reset.php:401
+msgid "Installing"
+msgstr "Đang cài đặt..."
+
+#: wp-reset.php:400
+msgid "Deleting"
+msgstr "Đang xóa"
+
+#: wp-reset.php:399
+msgid "Deactivating"
+msgstr "Đang hủy kích hoạt..."
+
+#: wp-reset.php:398
+msgid "Activating"
+msgstr "Đang kích hoạt"
+
+#: wp-reset.php:395
+msgid "Enter snapshot name or brief description"
+msgstr "Nhập tên bản lưu nhanh hoặc mô tả ngắn gọn"
+
+#: wp-reset.php:394
+msgid "Snapshot name or brief description, ie: before plugin install"
+msgstr "Tên bản lưu nhanh hoặc mô tả ngắn gọn, ví dụ: trước khi cài đặt plugin"
+
+#: wp-reset.php:393
+msgid "Create snapshot"
+msgstr "Tạo bản lưu nhanh"
+
+#: wp-reset.php:392
+msgid "Creating snapshot. Please wait."
+msgstr "Đang tạo bản lưu nhanh. Vui lòng chờ."
+
+#: wp-reset.php:391
+msgid "Snapshot created"
+msgstr "Đã tạo bản lưu nhanh"
+
+#: wp-reset.php:1366
+msgid "Create Snapshot"
+msgstr "Tạo bản lưu nhanh"
+
+#: wp-reset.php:1806
+msgid "All options (mods) for all themes will be reset; not just for the active theme. The tool works only for themes that use the <a href=\"https://codex.wordpress.org/Theme_Modification_API\" target=\"_blank\">WordPress theme modification API</a>. If options are saved in some other, custom way they won't be reset.<br> Always <a href=\"#\" class=\"create-new-snapshot\" data-description=\"Before resetting theme options\">create a snapshot</a> before using this tool if you want to be able to undo its actions."
+msgstr "Tất cả các tuỳ chọn (mods) cho tất cả các giao diện sẽ được đặt lại; không chỉ cho giao diện đang sử dụng. Công cụ này chỉ hoạt động cho các giao diện sử dụng <a href=\"https://codex.wordpress.org/Theme_Modification_API\" target=\"_blank\">API sửa đổi giao diện của WordPress</a>. Nếu các tuỳ chọn được lưu theo cách khác, tùy chỉnh, chúng sẽ không được đặt lại.<br> Luôn <a href=\"#\" class=\"create-new-snapshot\" data-description=\"Trước khi đặt lại các tuỳ chọn giao diện\">tạo một bản chụp nhanh</a> trước khi sử dụng công cụ này nếu bạn muốn có thể hoàn tác các hành động của nó."
+
+#: wp-reset.php:1772
+msgid "Index of Tools"
+msgstr "Mục lục công cụ"
+
+#: wp-reset.php:1714
+msgid "Reset Site"
+msgstr "Đặt lại trang web"
+
+#: wp-reset.php:1709
+msgid "Type <b>reset</b> in the confirmation field to confirm the reset and then click the \"Reset WordPress\" button.<br>Always <a href=\"#\" class=\"create-new-snapshot\" data-description=\"Before resetting the site\">create a snapshot</a> before resetting if you want to be able to undo."
+msgstr "Nhập <b>reset</b> vào trường xác nhận để xác nhận việc đặt lại và sau đó  vào nút \"Đặt lại trang web\".<br>Luôn <a href=\"#\" class=\"create-new-snapshot\" data-description=\"Trước khi đặt lại trang web\">Tạo một bản lưu nhanh</a> trước khi đặt lại nếu bạn muốn có thể hoàn tác."
+
+#: wp-reset.php:1703
+msgid "Site Reset"
+msgstr "Đặt lại trang web"
+
+#: wp-reset.php:1665
+msgid "you will have to confirm the action one more time"
+msgstr "Bạn sẽ phải xác nhận hành động một lần nữa"
+
+#: wp-reset.php:1591
+msgid "Please read carefully before proceeding"
+msgstr "Vui lòng đọc kỹ trước khi tiếp tục"
+
+#: wp-reset.php:1452 wp-reset.php:2341
+msgid "Snapshots"
+msgstr "Bản lưu nhanh"
+
+#: wp-reset.php:388
+msgid "Clicking \"Reset WordPress\" will reset your site to default values. All content will be lost. Always <a href=\"#\" class=\"create-new-snapshot\" data-description=\"Before resetting the site\">create a snapshot</a> if you want to be able to undo.</b>"
+msgstr "Nhấp vào \"Đặt lại WordPress\" sẽ đặt lại trang web của bạn về giá trị mặc định. Tất cả nội dung sẽ bị mất. Luôn <a href=\"#\" class=\"create-new-snapshot\" data-description=\"Trước khi đặt lại trang web\">Tạo ảnh chụp nhanh</a> nếu bạn muốn có thể hoàn tác.</b>"
+
+#. Description of the plugin
+#: wp-reset.php
+msgid "Reset the entire site or just selected parts while reserving the option to undo by using snapshots."
+msgstr "Đặt lại toàn bộ trang web hoặc chỉ các phần đã chọn trong khi bảo lưu tùy chọn hoàn tác bằng cách sử dụng ảnh chụp nhanh."
+
+#: wp-reset.php:396
+msgid "Create a new snapshot"
+msgstr "Tạo bản lưu nhanh mới"
+
+#: wp-reset.php:2048
+msgid "Have a set of plugins (and themes) that you install and activate after every reset? Or on every fresh WordPress installation? Well, no more clicking install &amp; active for ten minutes! Build the collection once and install it with one click as many times as needed.</p><p>WP Reset stores collections in the cloud so they're accessible on every site you build. You can use free plugins and themes from the official repo, and PRO ones by uploading a ZIP file. We'll safely store your license keys too, so you have everything in one place."
+msgstr "Có một bộ plugin (và giao diện) mà bạn cài đặt và kích hoạt sau mỗi lần đặt lại? Hoặc trên mỗi lần cài đặt WordPress mới? Vậy thì không cần nhấp chuột vào cài đặt & kích hoạt trong mười phút nữa! Xây dựng bộ sưu tập một lần và cài đặt nó chỉ với một lần nhấp chuột nhiều lần khi cần thiết. </p><p>WP Reset lưu trữ các bộ sưu tập trên đám mây để chúng có thể truy cập trên mọi trang web bạn xây dựng. Bạn có thể sử dụng các plugin và giao diện miễn phí từ kho chính thức, và các plugin PRO bằng cách tải lên một file ZIP. Chúng tôi cũng sẽ lưu trữ an toàn các khóa giấy phép của bạn, vì vậy bạn có mọi thứ ở một nơi."
+
+#: wp-reset.php:1572
+msgid "Please help us spread the word &amp; keep the plugin up-to-date"
+msgstr "Vui lòng giúp chúng tôi quảng bá và cập nhật plugin"
+
+#: wp-reset.php:387
+msgid "Are you sure you want to reset the site?"
+msgstr "Bạn có chắc chắn muốn đặt lại trang web không?"
+
+#: wp-reset.php:2143
+msgid "No need for donations :) If you can give us a <a href=\"https://wordpress.org/support/plugin/wp-reset/reviews/#new-post\" target=\"_blank\">five star rating</a> you'll help out more than you can imagine. A public mention <a href=\"https://twitter.com/webfactoryltd\" target=\"_blank\">@webfactoryltd</a> also does wonders. Thank you!"
+msgstr "Không cần quyên góp :) Nếu bạn có thể cho chúng tôi một <a href=\"https://wordpress.org/support/plugin/wp-reset/reviews/#new-post\" target=\"_blank\">đánh giá năm sao</a>, bạn sẽ giúp đỡ nhiều hơn bạn có thể tưởng tượng. Một lời nhắc công khai <a href=\"https://twitter.com/webfactoryltd\" target=\"_blank\">@webfactoryltd</a> cũng rất tuyệt vời. Cảm ơn!"
+
+#: wp-reset.php:2102
+msgid "Documentation"
+msgstr "Tài liệu hướng dẫn"
+
+#: wp-reset.php:1804
+msgid "Reset Theme Options"
+msgstr "Đặt lại các tuỳ chọn giao diện"
+
+#: wp-reset.php:1453
+msgid "Collections"
+msgstr "Bộ sưu tập"
+
+#: wp-reset.php:2024
+msgid "Delete .htaccess File"
+msgstr "Xóa tệp .htaccess"
+
+#: wp-reset.php:271
+msgid "Notice is already dismissed."
+msgstr "Thông báo đã bị loại bỏ."
+
+#: wp-reset.php:262 wp-reset.php:848
+msgid "You are not allowed to run this action."
+msgstr "Bạn không được phép chạy hành động này."
+
+#: wp-reset.php:1981
+msgid "There are no custom tables. There's nothing for this tool to empty or delete."
+msgstr "Không có bảng tùy chỉnh. Không có gì để công cụ này làm trống hoặc xóa."
+
+#: wp-reset.php:1965
+msgid "Empty or Delete Custom Tables"
+msgstr "Làm trống hoặc xóa các bảng tùy chỉnh"
+
+#: wp-reset.php:1911
+msgid "All plugins will be deleted except for WP Reset which will remain active.<br><b>There is NO UNDO. WP Reset does not make any file backups.</b>"
+msgstr "Tất cả các plugin sẽ bị xoá ngoại trừ WP Reset sẽ vẫn hoạt động.<br><b>Không có HOÀN TÁC. WP Reset không tạo bất kỳ sao lưu file nào.</b>"
+
+#: wp-reset.php:1909
+msgid "Delete Plugins"
+msgstr "Xóa Plugins"
+
+#: wp-reset.php:1899
+msgid "Delete Themes"
+msgstr "Xóa giao diện"
+
+#: wp-reset.php:1936
+msgid "Clean uploads Folder"
+msgstr "Làm sạch thư mục tải lên"
+
+#: wp-reset.php:1824
+msgid "Delete Transients"
+msgstr "Xóa tạm thời"
+
+#: wp-reset.php:1204
+msgid "Open WP Reset Tools"
+msgstr "Mở WP Reset"
+
+#: wp-reset.php:2141
+msgid "Care to Help Out?"
+msgstr "Bạn có muốn hỗ trợ không?"
+
+#: wp-reset.php:1560
+msgid "WP Reset is not compatible with multisite!"
+msgstr "WP Reset không tương thích với nhiều trang!"
+
+#: wp-reset.php:1228 wp-reset.php:1574
+msgid "Rate the plugin ★★★★★"
+msgstr "Đánh giá plugin ★★★★★"
+
+#: wp-reset.php:1228
+msgid "Rate the plugin"
+msgstr "Đánh giá plugin"
+
+#: wp-reset.php:376
+msgid "An error has occurred."
+msgstr "Một lỗi đã xảy ra."
+
+#: wp-reset.php:2129
+msgid "We are very active on the <a href=\"https://wordpress.org/support/plugin/wp-reset\" target=\"_blank\">official WP Reset support forum</a>. If you found a bug, have a feature idea or just want to say hi - please drop by. We love to hear back from our users."
+msgstr "Chúng tôi rất tích cực trên <a href=\"https://wordpress.org/support/plugin/wp-reset\" target=\"_blank\">diễn đàn hỗ trợ chính thức của WP Reset</a>. Nếu bạn phát hiện lỗi, có ý tưởng về tính năng hoặc chỉ muốn chào hỏi - hãy ghé qua. Chúng tôi rất thích nhận phản hồi từ người dùng của mình."
+
+#: wp-reset.php:2127
+msgid "Public Support Forum"
+msgstr "Diễn đàn hỗ trợ miễn phí"
+
+#: wp-reset.php:1451
+msgid "Tools"
+msgstr "Công cụ"
+
+#: wp-reset.php:852 wp-reset.php:1011
+msgid "Unknown tool."
+msgstr "Công cụ không xác định."
+
+#: wp-reset.php:1708
+msgid "Reactivate all currently active plugins"
+msgstr "Kích hoạt lại tất cả các plugin hiện đang hoạt động"
+
+#: wp-reset.php:1706 wp-reset.php:1731
+msgid "Reactivate WP Reset plugin"
+msgstr "Kích hoạt lại plugin WP Reset"
+
+#: wp-reset.php:1695 wp-reset.php:1705
+msgid "Reactivate current theme"
+msgstr "Kích hoạt lại chủ đề hiện tại"
+
+#: wp-reset.php:1369 wp-reset.php:2342
+msgid "Collapse / expand box"
+msgstr "Thu gọn/mở rộng hộp"
+
+#: wp-reset.php:1561
+msgid "Please be careful when using WP Reset with multisite enabled. It's not recommended to reset the main site. Sub-sites should be OK. We're working on making it fully compatible with WP-MU. <b>Till then please be careful.</b> Thank you for understanding."
+msgstr "Vui lòng cẩn thận khi sử dụng WP Reset với nhiều trang được bật. Không nên đặt lại trang web chính. Các trang web con thì có thể ổn. Chúng tôi đang làm việc để làm cho nó hoàn toàn tương thích với WP-MU. <b>Cho đến lúc đó, vui lòng cẩn thận.</b> Cảm ơn bạn đã hiểu."
+
+#. Plugin URI of the plugin
+#: wp-reset.php
+msgid "https://wpreset.com/"
+msgstr "https://wpreset.com/"
+
+#. translators: %s is replaced with the literal html "<code>--yes</code>"
+#: wp-reset.php:1676
+msgid "All actions have to be confirmed. If you want to skip confirmation use the standard %s option. Please be careful and backup first."
+msgstr "Tất cả các hành động phải được xác nhận. Nếu bạn muốn bỏ qua xác nhận, hãy sử dụng tuỳ chọn %s tiêu chuẩn. Vui lòng cẩn thận và sao lưu trước."
+
+#. translators: %s is replaced with the literal html "<code>wp help
+#. reset</code>"
+#: wp-reset.php:1674
+msgid "All tools available via GUI are available in WP-CLI as well. To get the list of commands run %s. Instead of the active user, the first user with admin privileges found in the database will be restored. "
+msgstr "Tất cả các công cụ có sẵn qua GUI cũng có sẵn trong WP-CLI. Để có được danh sách các lệnh chạy %s. Thay vì người dùng đang hoạt động, người dùng đầu tiên có đặc quyền quản trị viên được tìm thấy trong cơ sở dữ liệu sẽ được khôi phục. "
+
+#: wp-reset.php:1672
+msgid "WP-CLI Support"
+msgstr "Hỗ trợ WP-CLI"
+
+#: wp-reset.php:1574
+msgid "I've already rated it"
+msgstr "Tôi đã đánh giá nó"
+
+#: wp-reset.php:1574
+msgid "Rate WP Reset"
+msgstr "Đánh giá WP Reset"
+
+#: wp-reset.php:1573
+msgid "If you use &amp; enjoy WP Reset, <b>please rate it on WordPress.org</b>. It only takes a second and helps us keep the plugin maintained. Thank you!"
+msgstr "Nếu bạn sử dụng &amp; thích WP Reset, <b>vui lòng đánh giá nó trên WordPress.org</b>. Chỉ mất một giây và giúp chúng tôi duy trì plugin. Cảm ơn!"
+
+#: wp-reset.php:1431
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Xin lỗi, bạn không được phép truy cập trang này."
+
+#. translators: %1$s is replaced with the current user's username, %2$s is
+#. replaced with the URL to WP Reset settings page
+#: wp-reset.php:1294
+msgid "<b>Site has been successfully reset to default settings.</b><br>User \"%1$s\" was restored with the password unchanged. Open <a href=\"%2$s\">WP Reset</a> to do another reset."
+msgstr "<b>Trang web đã được đặt lại thành cài đặt mặc định thành công.</b><br>Người dùng \"%1$s\" đã được khôi phục với mật khẩu không thay đổi. Mở <a href=\"%2$s\">WP Reset</a> để thực hiện một lần đặt lại khác."
+
+#: wp-reset.php:1227
+msgid "Plugin Homepage"
+msgstr "Trang chủ Plugin"
+
+#: wp-reset.php:1226 wp-reset.php:1454
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: wp-reset.php:1226
+msgid "Get help"
+msgstr "Nhận trợ giúp"
+
+#: wp-reset.php:390
+msgid "Resetting in progress. Please wait."
+msgstr "Đang đặt lại. Vui lòng chờ."
+
+#: wp-reset.php:386
+msgid "Are you sure you want to proceed?"
+msgstr "Bạn có chắc muốn tiếp tục?"
+
+#: wp-reset.php:384
+msgid "OK"
+msgstr "OK"
+
+#: wp-reset.php:383
+msgid "Cancel"
+msgstr "Hủy"
+
+#: wp-reset.php:382
+msgid "Invalid confirmation"
+msgstr "xác nhận không hợp lệ"
+
+#: wp-reset.php:381
+msgid "Please type \"reset\" in the confirmation field."
+msgstr "Vui lòng nhập \"reset\" trong trường xác nhận."
+
+#: wp-reset.php:375
+msgid "An undocumented error has occurred. Please refresh the page and try again."
+msgstr "Đã xảy ra lỗi không có giấy tờ. Hãy làm mới trang và thử lại."
+
+#. Author URI of the plugin
+#: wp-reset.php
+msgid "https://www.webfactoryltd.com/"
+msgstr "https://www.webfactoryltd.com/"
+
+#. Author of the plugin
+#: wp-reset.php
+msgid "WebFactory Ltd"
+msgstr "WebFactory Ltd"
+
+#. Plugin Name of the plugin
+#: wp-reset.php wp-reset.php:248 wp-reset.php:377 wp-reset.php:1439
+msgid "WP Reset"
+msgstr "WP Reset"
+
+#: wp-reset.php:1735
+msgid "Type in \"reset\""
+msgstr "Nhập vào \"reset\""
+
+#: wp-reset.php:1450
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: wp-reset.php:1668
+msgid "you will be logged out, automatically logged back in and taken to the admin dashboard"
+msgstr "Bạn sẽ đăng xuất, tự động đăng nhập lại và được đưa đến bảng tin quản trị viên"
+
+#: wp-reset.php:1667
+msgid "site title, WordPress URL, site URL, site language, search engine visibility and current user will always be restored"
+msgstr "Tên website, URL WordPress, URL trang web, ngôn ngữ trang web, khả năng hiển thị của công cụ tìm kiếm và người dùng hiện tại sẽ luôn được khôi phục"
+
+#: wp-reset.php:1163
+msgid "Something went wrong. Please refresh the page and try again."
+msgstr "Đã xảy ra sự cố. Hãy làm mới trang và thử lại."
+
+#: wp-reset.php:1169
+msgid "<b>Invalid confirmation code.</b> Please type \"reset\" in the confirmation field."
+msgstr "<b>Mã xác nhận không hợp lệ.</b> Vui lòng nhập \"reset\" vào trường xác nhận."
+
+#: wp-reset.php:389
+msgid "Click \"Cancel\" to abort."
+msgstr "Nhấp vào \"Hủy\" để hủy cài lại."
+
+#: wp-reset.php:1268
+msgid "Visit WP Reset page for more info"
+msgstr "Truy cập trang WP Reset để biết thêm thông tin"
+
+#: wp-reset.php:385
+msgid "Reset WordPress"
+msgstr "Đặt lại WordPress"
