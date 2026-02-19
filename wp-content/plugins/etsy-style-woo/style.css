@@ -1,0 +1,131 @@
+/*
+ * Etsy Style WooCommerce
+ */
+
+/* Grid Layout: Responsive columns */
+.products.ct-products-layout {
+    display: grid !important;
+    grid-template-columns: repeat(1, 1fr) !important;
+    gap: 15px !important;
+}
+
+@media (min-width: 600px) {
+    .products.ct-products-layout {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+}
+
+@media (min-width: 800px) {
+    .products.ct-products-layout {
+        grid-template-columns: repeat(3, 1fr) !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .products.ct-products-layout {
+        grid-template-columns: repeat(4, 1fr) !important;
+        gap: 20px !important;
+    }
+}
+
+/* Product Card Styling */
+.ct-media-container a::after {
+    display: none !important;
+    /* Remove overlay if any */
+}
+
+.woocommerce-loop-product__title {
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    margin-bottom: 2px !important;
+    line-height: 1.4 !important;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.etsy-grid-seller {
+    font-size: 12px;
+    color: #595959;
+    margin-bottom: 4px;
+}
+
+.price {
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    color: #222 !important;
+    margin-bottom: 4px !important;
+}
+
+.etsy-grid-meta {
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+.etsy-notice {
+    color: #a61a2e;
+    /* Etsy red-ish notice */
+    font-weight: 700;
+}
+
+.etsy-sales {
+    color: #595959;
+    margin-top: 2px;
+}
+
+/* Single Product Page Styling */
+.etsy-single-top-meta {
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+
+.etsy-seller {
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.etsy-sales-dot {
+    margin: 0 5px;
+}
+
+.product_title {
+    font-size: 24px !important;
+    font-weight: 300 !important;
+    line-height: 1.2 !important;
+    margin-bottom: 10px !important;
+}
+
+.etsy-tax-notice {
+    font-size: 12px;
+    color: #595959;
+    margin-top: -5px;
+    margin-bottom: 15px;
+}
+
+/* Add to Cart Button */
+.single_add_to_cart_button {
+    background-color: #222 !important;
+    color: #fff !important;
+    border-radius: 20px !important;
+    padding: 12px 30px !important;
+    font-weight: 700 !important;
+    width: 100% !important;
+    transition: background 0.3s !important;
+}
+
+.single_add_to_cart_button:hover {
+    background-color: #000 !important;
+}
+
+/* Star Rating Integration */
+.star-rating {
+    font-size: 10px !important;
+    color: #222 !important;
+}
+
+.ct-rating-count {
+    font-size: 12px;
+    color: #595959;
+    margin-left: 5px;
+}
